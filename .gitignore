@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+venv/
+.venv/
+__pycache__/
+*.pyc
+projects/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.part
+*.tmp
+*.rendering.mp4
+.streamlit/secrets.toml
+.claude/

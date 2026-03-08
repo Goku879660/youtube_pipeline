@@ -1,0 +1,29 @@
+# ══════════════════════════════════════════════════════════
+# requirements.txt
+# Installeer met: pip install -r requirements.txt
+# ══════════════════════════════════════════════════════════
+
+# UI
+streamlit>=1.35.0
+
+# AI APIs (installeer minimaal één)
+openai>=1.30.0
+anthropic>=0.28.0
+
+# Voice-over (gratis, geen API-kosten)
+edge-tts>=6.1.9
+
+# Video editing
+moviepy>=1.0.3
+imageio>=2.34.0
+imageio-ffmpeg>=0.4.9
+
+# HTTP requests
+requests>=2.31.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Utilities
+numpy>=1.24.0
+Pillow>=10.0.0
